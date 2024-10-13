@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fedoju
-- 👀 I’m interested in ml
+- 👀 I’m interested in python and typescript
 
 
 <!---
